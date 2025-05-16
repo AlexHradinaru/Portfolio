@@ -1,1 +1,70 @@
-# Portfolio
+# Alex Grad – QA Automation Engineer Portfolio
+
+## 👋 Welcome  
+Hi! I’m Alex, a QA Automation Engineer passionate about making software better through thoughtful testing and smart automation. This portfolio highlights my experience in both manual and automated testing, API validation, and my approach to building reliable, user-friendly software.
+
+---
+
+## 🙋‍♂️ About Me  
+My journey into QA started with a deep interest in how things work—and how they break. Over the years, I’ve grown into a hands-on QA engineer who enjoys building stable test frameworks, debugging tricky issues, and working closely with developers and product teams.
+
+I love diving into automation, exploring API behavior and validating databases. Whether it’s a tight release cycle or a new product launch, I bring a proactive, detail-oriented mindset to ensure software works as expected before it reaches users.
+
+---
+
+## 📄 Resume  
+You can view my full resume [here](https://docs.google.com/document/d/1Z1M1fWXxdNaNpa-hgmTgRdrhPPn5bME4/edit?usp=sharing&ouid=102321711083835436893&rtpof=true&sd=true)
+
+---
+
+## 🛠️ Skills  
+- **Automation Tools:** Cypress, Selenium, Appium, Playwright, WebDriverIO  
+- **API Testing:** Postman, Swagger, SoapUI, CURL  
+- **Languages:** JavaScript, Python  
+- **Databases:** PostgreSQL, MySQL  
+- **CI/CD & Version Control:** Git, GitHub, GitHub Actions  
+- **Test Management:** Azure DevOps, TestRail, XQual, Zephyr, Qase.io  
+- **Bug Tracking:** JIRA, TestRail  
+- **Operating Systems:** Windows, macOS, Linux  
+
+---
+
+## 💼 Examples of My Work  
+### ✅ Automated Scripts  
+- UI test suites for web and mobile apps (Cypress, Selenium, Appium)  
+- Data-driven test frameworks with reusable components  
+
+### 🔌 API Testing Projects  
+- REST API testing using Postman collections and Swagger schemas  
+- Automated API validations integrated into CI/CD pipelines  
+
+### 📄 Test Documentation  
+- Test plans, test cases, and checklists for web/mobile platforms  
+- Risk-based testing strategies aligned with Agile workflows  
+
+### 🐞 Bug Reports  
+- Clear, reproducible defect reports in JIRA  
+- Collaborated with cross-functional teams to resolve critical issues  
+
+---
+
+## 🔧 Tools  
+- **Testing Frameworks:** Cypress, Selenium, Appium, Playwright  
+- **API Testing:** Postman, Swagger, SoapUI  
+- **Bug Tracking:** JIRA, TestRail  
+- **Test Case Management:** Azure DevOps, Qase.io, XQual, Zephyr  
+- **CI/CD:** GitHub Actions  
+- **Databases:** MySQL, PostgreSQL  
+- **Methodologies:** Agile/Scrum  
+
+---
+
+## 📬 Connect with Me  
+- **Name:** Alex Grad  
+- **Location:** New York City, NY  
+- **Email:** [aleksandr.gradinaru@gmail.com](mailto:aleksandr.gradinaru@gmail.com)  
+- **LinkedIn:** [linkedin.com/in/alexhradinaru](https://www.linkedin.com/in/alexhradinaru)
+
+---
+
+Thanks for stopping by! Feel free to reach out if you'd like to collaborate or just talk QA 👨‍💻
