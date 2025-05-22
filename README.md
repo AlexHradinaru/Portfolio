@@ -31,7 +31,7 @@ You can view my full resume [here](https://docs.google.com/document/d/1Z1M1fWXxd
 
 ## 💼 Examples of My Work  
 ### ✅ Test frameworks with reusable components from scratch.
-- Cypress-based end-to-end (E2E) automation suite for ClickUp’s web application. It demonstrates best practices in test automation, including the Page Object Model, API/UI hybrid testing, custom Cypress commands, and secure environment variable management.(https://github.com/AlexHradinaru/clickup-qa)
+- [Cypress-based end-to-end (E2E) automation suite for ClickUp’s web application.](https://github.com/AlexHradinaru/clickup-qa)
 
 ### 🔌 API Testing Projects  
 - REST API testing using Postman collections and Swagger schemas  
