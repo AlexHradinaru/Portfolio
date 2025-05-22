@@ -34,7 +34,7 @@ You can view my full resume [here](https://docs.google.com/document/d/1Z1M1fWXxd
 - [Cypress-based end-to-end (E2E) automation suite for ClickUp’s web application.](https://github.com/AlexHradinaru/clickup-qa)
 
 ### 🔌 API Testing Projects  
-- REST API testing using Postman collections and Swagger schemas  
+- [REST API testing using Postman collections and Swagger schemas](https://drive.google.com/drive/folders/1qRTv2InUP31whymv8RV3mjGNrFupOjUA?usp=sharing)  
 - Automated API validations integrated into CI/CD pipelines  
 
 ### 📄 Test Documentation  
@@ -42,8 +42,7 @@ You can view my full resume [here](https://docs.google.com/document/d/1Z1M1fWXxd
 - Risk-based testing strategies aligned with Agile workflows  
 
 ### 🐞 Bug Reports  
-- Clear, reproducible defect reports in JIRA  
-- Collaborated with cross-functional teams to resolve critical issues  
+- [Clear, reproducible defect reports in JIRA](https://drive.google.com/drive/folders/12a-j9OGWF7UetR0ZR9J2GqZJwoyNzuMK?usp=sharing)
 
 ---
 
