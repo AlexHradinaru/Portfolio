@@ -34,7 +34,7 @@ You can view my full resume [here](https://docs.google.com/document/d/1Z1M1fWXxd
 - [Cypress-based end-to-end (E2E) automation suite for ClickUp’s web application.](https://github.com/AlexHradinaru/clickup-qa)
 
 ### 🔌 API Testing Projects  
-- [Complex API integration testing with dual DEX trading system](https://github.com/AlexHradinaru/dual-dex-hedge-bot)
+- [Complex API integration testing with dual DEX trading system(Paradex+Backpack)](https://github.com/AlexHradinaru/dual-dex-hedge-bot)
 
 ### 📄 Test Documentation  
 - Test plans, test cases, and checklists for web/mobile platforms  
