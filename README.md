@@ -35,7 +35,7 @@ You can view my full resume [here](https://docs.google.com/document/d/1Z1M1fWXxd
 
 ### 🔌 API Testing Projects  
 - [Complex API integration testing with dual DEX trading system(Paradex+Backpack)](https://github.com/AlexHradinaru/dual-dex-hedge-bot)
-- [Comprehensive API test suite for Art Institute of Chicago](https://www.postman.com/test88-5981/test-suite-for-the-art-institute-of-chicago/overview)
+- [Comprehensive automated API test suite for Art Institute of Chicago(Postman)](https://www.postman.com/test88-5981/test-suite-for-the-art-institute-of-chicago/overview)
 
 ### 📄 Test Documentation  
 - Test plans, test cases, and checklists for web/mobile platforms  
