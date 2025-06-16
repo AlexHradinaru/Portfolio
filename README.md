@@ -60,7 +60,7 @@ You can view my full resume [here](https://docs.google.com/document/d/1Z1M1fWXxd
 ## 📬 Connect with Me  
 - **Name:** Alex Grad  
 - **Location:** New York City, NY  
-- **Email:** [aleksandr.gradinaru@gmail.com](mailto:aleksandr.gradinaru@gmail.com)  
+- **Email:** [alexhradqa@gmail.com](mailto:alexhradqa@gmail.com)  
 - **LinkedIn:** [linkedin.com/in/alexhradinaru](https://www.linkedin.com/in/alexhradinaru)
 
 ---
