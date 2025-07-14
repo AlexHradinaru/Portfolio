@@ -32,6 +32,7 @@ You can view my full resume [here](https://docs.google.com/document/d/1Z1M1fWXxd
 ## 💼 Examples of My Work  
 ### ✅ Test frameworks with reusable components from scratch.
 - [Cypress-based end-to-end (E2E) automation suite for ClickUp’s web application.](https://github.com/AlexHradinaru/clickup-qa)
+- [Playwright Test Framework - Eliassen Group Website.](https://github.com/AlexHradinaru/eliassen-qa)
 
 ### 🔌 API Testing Projects  
 - [Complex API integration testing with dual DEX trading system(Paradex+Backpack)](https://github.com/AlexHradinaru/dual-dex-hedge-bot)
@@ -43,6 +44,7 @@ You can view my full resume [here](https://docs.google.com/document/d/1Z1M1fWXxd
 
 ### 🐞 Bug Reports  
 - [Clear, reproducible defect reports in JIRA](https://drive.google.com/drive/folders/12a-j9OGWF7UetR0ZR9J2GqZJwoyNzuMK?usp=sharing)
+- [QA-CI Reporter: A GitHub Action that runs tests (Cypress, Playwright, Jest), parses results, creates clean reports, and sends alerts to Slack, Telegram, or email.](https://github.com/AlexHradinaru/qa-cicd-reporter)
 
 ---
 
