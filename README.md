@@ -33,7 +33,7 @@ You can view my full resume [here](https://docs.google.com/document/d/1Z1M1fWXxd
 ### ✅ Test frameworks with reusable components from scratch.
 - [Cypress-based end-to-end (E2E) automation suite for ClickUp’s web application.](https://github.com/AlexHradinaru/clickup-qa)
 - [Playwright Test Framework - Eliassen Group Website.](https://github.com/AlexHradinaru/eliassen-qa)
-
+- [End‑to‑end ETL + QA using SQL with a QA-passed view and Tableau viz.](https://github.com/AlexHradinaru/etl-testing-workflow)
 ### 🔌 API Testing Projects  
 - [Complex API integration testing with dual DEX trading system(Paradex+Backpack)](https://github.com/AlexHradinaru/dual-dex-hedge-bot)
 - [Comprehensive automated API test suite for Art Institute of Chicago(Postman)](https://www.postman.com/test88-5981/test-suite-for-the-art-institute-of-chicago/overview)
