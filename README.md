@@ -31,6 +31,7 @@ You can view my full resume [here](https://docs.google.com/document/d/1Z1M1fWXxd
 
 ## 💼 Examples of My Work  
 ### ✅ Test frameworks with reusable components from scratch.
+- [Automated test suite for SBG Funding website](https://github.com/AlexHradinaru/SBG-qa)
 - [Cypress-based end-to-end (E2E) automation suite for ClickUp’s web application.](https://github.com/AlexHradinaru/clickup-qa)
 - [Playwright Test Framework - Eliassen Group Website.](https://github.com/AlexHradinaru/eliassen-qa)
 - [End‑to‑end ETL + QA using SQL with a QA-passed view and Tableau viz.](https://github.com/AlexHradinaru/etl-testing-workflow)
